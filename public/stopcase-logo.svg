@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Brand Color: #F1A80A / #F59E0B -->
+  <!-- Left Side Bumper -->
+  <rect x="52" y="145" width="70" height="282" rx="35" fill="#F1A80A" />
+
+  <!-- Right Side Bumper -->
+  <rect x="390" y="145" width="70" height="282" rx="35" fill="#F1A80A" />
+
+  <!-- Main Luggage Body with Unified Handle -->
+  <path
+    d="M 194 60
+       C 174 60 166 76 166 96
+       L 166 140
+       L 155 140
+       C 140 140 138 152 138 168
+       L 138 394
+       C 138 418 154 427 174 427
+       L 338 427
+       C 358 427 374 418 374 394
+       L 374 168
+       C 374 152 372 140 357 140
+       L 346 140
+       L 346 96
+       C 346 76 338 60 318 60
+       Z
+       M 202 98
+       C 202 98 202 98 202 98
+       L 310 98
+       C 314 98 316 100 316 104
+       L 316 134
+       C 316 138 314 140 310 140
+       L 202 140
+       C 198 140 196 138 196 134
+       L 196 104
+       C 196 100 198 98 202 98
+       Z"
+    fill="#F1A80A"
+  />
+
+  <!-- Wi-Fi Waves (White) -->
+  <!-- Outer Arc -->
+  <path
+    d="M 196 195 A 72 72 0 0 1 316 195"
+    stroke="#FFFFFF"
+    stroke-width="15"
+    stroke-linecap="round"
+  />
+  <!-- Middle Arc -->
+  <path
+    d="M 212 219 A 50 50 0 0 1 300 219"
+    stroke="#FFFFFF"
+    stroke-width="14"
+    stroke-linecap="round"
+  />
+  <!-- Inner Arc -->
+  <path
+    d="M 230 242 A 28 28 0 0 1 282 242"
+    stroke="#FFFFFF"
+    stroke-width="13"
+    stroke-linecap="round"
+  />
+  <!-- Wi-Fi Dot -->
+  <circle cx="256" cy="265" r="9" fill="#FFFFFF" />
+
+  <!-- Keyhole Badge (White Circle) -->
+  <circle cx="256" cy="350" r="62" fill="#FFFFFF" />
+
+  <!-- Keyhole Cutout (Golden Color) -->
+  <!-- Top Circle of Keyhole -->
+  <circle cx="256" cy="334" r="22" fill="#F1A80A" />
+  <!-- Bottom Slot of Keyhole -->
+  <path
+    d="M 244 338
+       L 268 338
+       L 275 385
+       C 275 387 273 388 271 388
+       L 241 388
+       C 239 388 237 387 237 385
+       Z"
+    fill="#F1A80A"
+  />
+</svg>

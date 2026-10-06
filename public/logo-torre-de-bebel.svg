@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="100%" height="100%">
+  <!-- Torre de Bebel Logo Symbol: Crown / Paw / Colorful Petals organic emblem -->
+  <defs>
+    <filter id="soft-shadow" x="-10%" y="-10%" width="125%" height="125%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-opacity="0.08" />
+    </filter>
+  </defs>
+
+  <g transform="translate(14, 10) scale(0.85)" filter="url(#soft-shadow)">
+    <!-- Top left green bud / antenna -->
+    <ellipse cx="44" cy="18" rx="8" ry="12" fill="#78B828" transform="rotate(-5 44 18)" />
+
+    <!-- Top center green bud / antenna -->
+    <ellipse cx="88" cy="14" rx="8" ry="12.5" fill="#78B828" transform="rotate(18 88 14)" />
+
+    <!-- Far right green bud / leaf tip -->
+    <ellipse cx="140" cy="80" rx="7.5" ry="11" fill="#78B828" transform="rotate(65 140 80)" />
+
+    <!-- Main organic crown / paw structure -->
+    <!-- Left outer purple / deep indigo loop -->
+    <path d="M 44,28 C 30,38 24,58 28,78 C 31,92 38,102 48,110 C 40,94 38,72 44,52 C 48,40 52,32 44,28 Z" fill="#2E1B5B" />
+    
+    <!-- Left lobe dark blue/indigo inner fill -->
+    <path d="M 42,42 C 34,54 35,76 45,90 C 52,80 54,65 52,50 C 49,42 45,38 42,42 Z" fill="#2C235A" />
+
+    <!-- Left lower vibrant orange swoop -->
+    <path d="M 28,78 C 24,94 28,112 40,126 C 50,136 65,142 80,140 C 66,134 52,122 46,108 C 40,96 36,86 28,78 Z" fill="#E86C1F" />
+
+    <!-- Center left upper orange lobe -->
+    <path d="M 48,50 C 58,42 70,42 76,52 C 82,62 80,78 74,90 C 66,86 58,82 50,72 C 46,64 46,55 48,50 Z" fill="#EB731E" />
+
+    <!-- Center warm golden yellow core heart -->
+    <path d="M 66,58 C 76,50 86,56 86,70 C 86,84 80,98 72,106 C 66,98 62,88 62,76 C 62,68 64,62 66,58 Z" fill="#F7B813" />
+    
+    <!-- Central bright orange arch / middle tower/finger -->
+    <path d="M 74,34 C 84,28 96,36 96,52 C 96,68 90,86 82,98 C 76,92 74,78 74,62 C 74,48 72,38 74,34 Z" fill="#E96620" />
+
+    <!-- Blue curved accent in lower center -->
+    <path d="M 58,92 C 68,90 78,98 84,108 C 78,118 68,122 56,118 C 54,108 55,98 58,92 Z" fill="#0280C4" />
+
+    <!-- Right top-finger purple shadow -->
+    <path d="M 88,24 C 80,36 82,54 88,68 C 96,56 98,42 96,30 C 94,24 90,22 88,24 Z" fill="#6A2B82" />
+
+    <!-- Right finger magenta & orange flame -->
+    <path d="M 96,34 C 108,46 114,64 110,80 C 104,74 98,66 94,52 C 92,44 94,36 96,34 Z" fill="#E85D25" />
+
+    <!-- Lower center-right warm gradient patches (cyan, yellow, orange) -->
+    <path d="M 78,112 C 86,110 94,116 98,124 C 92,130 84,132 76,128 C 74,122 76,116 78,112 Z" fill="#009CD8" />
+    <path d="M 90,118 C 98,116 106,122 108,130 C 102,134 94,134 88,130 C 88,124 90,120 90,118 Z" fill="#FAB617" />
+    <path d="M 98,124 C 106,122 114,126 118,132 C 110,138 102,138 96,132 Z" fill="#E86C1F" />
+
+    <!-- Right lower finger / tail (pointing outward to green bud) -->
+    <path d="M 104,72 C 118,72 130,80 134,88 C 128,98 116,104 102,100 C 98,90 98,80 104,72 Z" fill="#2E1B5B" />
+    <path d="M 116,78 C 126,80 132,86 136,92 C 130,98 122,100 114,96 C 112,90 114,82 116,78 Z" fill="#883389" />
+    <path d="M 112,88 C 122,88 128,94 130,102 C 122,106 114,104 108,98 C 108,94 110,90 112,88 Z" fill="#E96620" />
+
+    <!-- Lower circular body base (purple & white hollow ring) -->
+    <path d="M 40,118 C 36,128 42,142 56,148 C 72,154 90,150 100,138 C 108,128 106,116 98,110 C 88,122 74,132 58,128 C 48,126 44,120 40,118 Z" fill="#751E79" />
+    
+    <!-- Clean inner white / negative space circle that forms the palm ring -->
+    <ellipse cx="64" cy="120" rx="14" ry="15" fill="#FFFFFF" transform="rotate(-15 64 120)" />
+
+    <!-- Purple inner curve around the ring -->
+    <path d="M 48,102 C 40,112 42,126 50,136 C 46,124 46,114 52,104 C 54,100 50,100 48,102 Z" fill="#4B1E6D" />
+    <path d="M 68,136 C 80,138 92,132 98,122 C 94,130 84,136 72,136 Z" fill="#882882" />
+  </g>
+</svg>

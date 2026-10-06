@@ -1,0 +1,40 @@
+import { LockerType } from '../types';
+
+export const LOCKER_TYPES: LockerType[] = [
+  {
+    id: 'small',
+    name: 'Locker P (Compacto)',
+    tagline: 'Ideal para mochilas, bolsas executivas e compras de duty free',
+    dimensionsVisual: 'Aprox. 45cm x 35cm x 55cm',
+    capacityDescription: '1 Mochila grande ou 2 mochilas leves + sacolas + laptop',
+    hourlyPrice: 15,
+    dailyPrice: 35,
+    popularFor: 'Conexões rápidas de negócios e reuniões de trabalho',
+    maxBagsDescription: 'Até 1 volume médio ou 2 volumes compactos',
+    volumeLiters: 85,
+  },
+  {
+    id: 'medium',
+    name: 'Locker M (Padrão Viagem)',
+    tagline: 'O mais escolhido: comporta mala de bordo ANAC + mochila',
+    dimensionsVisual: 'Aprox. 60cm x 45cm x 80cm',
+    capacityDescription: '1 Mala de mão (padrão 10kg) + 1 mochila ou jaqueta + compras',
+    hourlyPrice: 22,
+    dailyPrice: 49,
+    popularFor: 'Turistas individuais e casais em day-trip',
+    maxBagsDescription: '1 mala de bordo + 1 mochila ou 2 mochilas grandes',
+    volumeLiters: 190,
+  },
+  {
+    id: 'large',
+    name: 'Locker G (Familiar / Grande Porte)',
+    tagline: 'Para bagagem despachada de 23kg a 32kg ou múltiplas malas',
+    dimensionsVisual: 'Aprox. 90cm x 55cm x 85cm',
+    capacityDescription: '1 Mala despachada grande ou 2 malas de bordo + mochilas + casacos',
+    hourlyPrice: 30,
+    dailyPrice: 69,
+    popularFor: 'Famílias, viagens longas internacionais e conexões com muitas malas',
+    maxBagsDescription: '1 mala grande despachada + 1 mala de mão + mochilas',
+    volumeLiters: 380,
+  },
+];

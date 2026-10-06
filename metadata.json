@@ -1,0 +1,7 @@
+{
+  "name": "Plataforma Empresarial Multiempresa",
+  "description": "Plataforma integrada de gestão empresarial multiempresa para Torre de Bebel e Stop Case em todas as 5 cidades, 10 sites e unidades operacionais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
