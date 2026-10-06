@@ -205,7 +205,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ currentPath, onNavigate }) => 
 
   return (
     <aside
-      className={`sticky top-[96px] h-[calc(100vh-96px)] z-20 bg-white border-r border-slate-200 flex flex-col shrink-0 transition-all duration-200 ease-in-out select-none ${
+      className={`fixed left-0 top-0 bottom-0 z-40 bg-white border-r border-slate-200 flex flex-col transition-all duration-200 ease-in-out select-none ${
         sidebarCollapsed ? 'w-16' : 'w-60'
       }`}
     >
